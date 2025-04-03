@@ -9,4 +9,4 @@ Sou o Adriano Junior, e ainda estou aprendendo programação atualmente estou fa
   <a href="https://www.instagram.com/juniorzt40/"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt= "insta-logo" /> </a>
 
 
-  
+  <img src= "https://github.com/NucleFar/NucleFar/raw/output/github-snake-dark.svg" alt="gif de cobra" style="max-width: 100;">
