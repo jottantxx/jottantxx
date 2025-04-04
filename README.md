@@ -1,4 +1,4 @@
-## Olá mundo,sou o Adriano <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" style="width: 15%; display: inline-block;" data-target="animated-image.originalImage">
+## Olá mundo,sou o Adriano Junior <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" style="width: 15%; display: inline-block;" data-target="animated-image.originalImage">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 20; display: inline-block;" data-target="animated-image.originalImage">
 
 Sou o Adriano Junior, e ainda estou aprendendo programação atualmente estou fazendo uns projetos com html e css
